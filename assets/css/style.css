@@ -459,7 +459,7 @@ textarea::-ms-input-placeholder
 
 /*For Home Section*/
 .home{
-    background: url(../images/header-bg.jpg) no-repeat center top fixed;
+    background: url(../images/home.jpg) no-repeat center top fixed;
     background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
@@ -491,6 +491,7 @@ textarea::-ms-input-placeholder
 
 .about-content{
     margin-top:70px;
+    margin-bottom: 70px;
 }
 .about-content h4{
     font-size:18px;
@@ -573,7 +574,7 @@ textarea::-ms-input-placeholder
 /*For Experience Section*/
 
 .experience{
-    background: url(../images/city.jpg) no-repeat center top fixed;
+    background: url(../images/work.jpg) no-repeat center top fixed;
     background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
